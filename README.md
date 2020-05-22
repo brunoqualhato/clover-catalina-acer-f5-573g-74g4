@@ -1,6 +1,6 @@
 
-#EFI FOR ACER F5 573g-74g4
-#Catalina 10.15.4
+# EFI FOR ACER F5 573g-74g4
+# Catalina 10.15.4
 <p>CAMERA = OK</p>
 <p>SOM = OK</p>
 <p>WIFI(Atheros 9565) = OK</p>
