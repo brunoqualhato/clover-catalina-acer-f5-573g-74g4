@@ -1,7 +1,7 @@
 
 #EFI FOR ACER F5 573g-74g4
 #Catalina 10.15.4
-CAMERA = OK
+<p>CAMERA = OK</p>
 SOM = OK
 WIFI(Atheros 9565) = OK
 INTEL GRAPHICS 620 = OK
